@@ -1,0 +1,154 @@
+[
+    {
+        "name": "Amina",
+        "email": "amina@gmail.com",
+        "birthday": null,
+        "group": "University",
+        "phones": [
+            {
+                "phone": "87071234567",
+                "type": "mobile"
+            },
+            {
+                "phone": "87079998877",
+                "type": "work"
+            },
+            {
+                "phone": "87070001122",
+                "type": "home"
+            }
+        ]
+    },
+    {
+        "name": "Dana",
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "87075554433",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Aliya",
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "87771239876",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Arman",
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "87021112233",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Dias",
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "87475556677",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Dana",
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "2345",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Anna",
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "39-93-",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Madina",
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "87071234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Aruzhan",
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "77075554433",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "AliTest",
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "87071112233",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "DanaTest",
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "77074445566",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "TestUser",
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "87079999999",
+                "type": "mobile"
+            }
+        ]
+    }
+]

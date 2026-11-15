@@ -1,0 +1,4 @@
+first_name,phone,email,birthday,group,phone_type
+CSVTest1,87071110001,csvtest1@gmail.com,2005-04-12,Friend,mobile
+CSVTest2,87072220002,csvtest2@gmail.com,2004-08-20,Work,work
+CSVTest3,87073330003,csvtest3@gmail.com,2006-01-15,Family,home
